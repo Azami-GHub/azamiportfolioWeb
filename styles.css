@@ -1,0 +1,68 @@
+.link-header {
+  background-color: #171717;
+}
+
+.title-colour, .link-colour, h1, p {
+  color: white;
+}
+
+.title {
+  line-height: 65px;
+}
+
+.sub-title {
+  padding-top: 10px;
+}
+
+.container-fluid {
+  display: inline-block;
+  background-color: #151515;
+  padding: 0% 15%;
+  padding-top: 7%;
+  padding-bottom: 0%;
+  bottom: 0;
+  right: 0;
+  position: relative;
+  z-index: 1;
+}
+
+#header{
+  position: relative;
+  z-index: 2;
+}
+
+.profile-image {
+  float: right;
+}
+
+.background {
+  background-color: #171717;
+}
+
+.navbar {
+  margin: 20px 0px 30px;
+}
+
+i {
+  color: white;
+}
+
+.icon {
+  text-align: center;
+  padding: 10% 15%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.row {}
+
+.icon-header {
+  width: 60%;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
