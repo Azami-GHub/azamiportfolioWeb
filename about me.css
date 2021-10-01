@@ -1,0 +1,39 @@
+.container-fluid {
+  display: inline-block;
+  background-color: #151515;
+  padding: 0% 15%;
+  padding-top: 7%;
+  padding-bottom: 100px;
+  bottom: 0;
+  right: 0;
+  position: relative;
+  z-index: 1;
+}
+
+
+.background {
+  background-color: #171717;
+}
+
+
+.title-colour, .link-colour, h1, p {
+  color: white;
+}
+
+.about-me {
+  margin-top: 50px;
+}
+
+.navbar {
+  margin: 20px 0px 30px;
+}
+
+.icon-header {
+  width: 60%;
+}
+
+
+#header{
+  position: relative;
+  z-index: 2;
+}
